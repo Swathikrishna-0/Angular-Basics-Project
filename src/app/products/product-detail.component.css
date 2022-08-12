@@ -1,0 +1,14 @@
+.image-in-details{
+  width:100px;
+  height: 100px;
+}
+.card-details-container{
+  display:flex;
+  flex-direction: row;
+  padding:20px;
+  padding-bottom: 10px;
+}
+.details-container{
+  padding:10px;
+  margin-left: 10px;
+}
